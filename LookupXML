@@ -13,5 +13,5 @@
        <termcode>TERM</termcode>
        <amount>0</amount>
        <maxamounttopay></maxamounttopay>
-   </LookupResult>
+        </LookupResult>
 </CustomerLookupResultDS>
