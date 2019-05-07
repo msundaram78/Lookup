@@ -4,7 +4,7 @@
        <result>0</result>
        <last_name>Welcome</last_name>
        <first_name>testf</first_name>
-       <cust_code>WEST1234</cust_code>
+       <cust_code>DAVID9876</cust_code>
        <itemcnt>1</itemcnt>
        <ippsrcamtcnt>1</ippsrcamtcnt>
        <ippsourceamountcode>IPPBALANCE</ippsourceamountcode>
@@ -13,5 +13,5 @@
        <termcode>TERM</termcode>
        <amount>0</amount>
        <maxamounttopay></maxamounttopay>
-        </LookupResult>
+   </LookupResult>
 </CustomerLookupResultDS>
