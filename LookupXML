@@ -12,6 +12,6 @@
         <balance_due>500</balance_due>
         <termcode>TERM</termcode>
         <amount>0</amount>
-        <maxamounttopay></maxamounttopay>
+        <maxamounttopay>5000</maxamounttopay>
     </LookupResult>
 </CustomerLookupResultDS>
