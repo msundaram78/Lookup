@@ -12,6 +12,6 @@
        <balance_due>500</balance_due>
        <termcode>WINDOWS 2017</termcode>
        <amount>0</amount>
-       <maxamounttopay></maxamounttopay>
+       <maxamounttopay> </maxamounttopay>
    </LookupResult>
 </CustomerLookupResultDS>
