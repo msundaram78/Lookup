@@ -9,9 +9,9 @@
        <ippsrcamtcnt>1</ippsrcamtcnt>
        <ippsourceamountcode>IPPBALANCE</ippsourceamountcode>
        <item_code>TUIT</item_code>
-       <balance_due>500</balance_due>
+       <balance_due>5000</balance_due>
        <termcode>WINDOWS 2017</termcode>
        <amount>0</amount>
-       <maxamounttopay> </maxamounttopay>
+       <maxamounttopay></maxamounttopay>
    </LookupResult>
 </CustomerLookupResultDS>
