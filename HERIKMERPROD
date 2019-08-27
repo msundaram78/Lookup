@@ -11,6 +11,6 @@
      billno=2015FALL&
      itemcnt=1&
      ippsrcamtcnt=1&
-     ippsourceamountcode=null&
-     termcode=null&
+     ippsourceamountcode=IPPBALANCE&
+     termcode=WINTER 2017&
      amount=0.0</cashnet>
