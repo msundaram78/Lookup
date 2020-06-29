@@ -1,10 +1,10 @@
 <cashnet>result=0&
      respmessage=SUCCESS&
-     custcode=0629320&
-     lname=Subbu&
-     fname=Meenatchi&
+     custcode=MS01400933&
+     lname=Lookup
+     fname=customer1&
      email=&
-     maxamounttopay=4000&
+     maxamounttopay=8000&
      itemcnt=6&
      itemcode=TUIT&
      itemdesc=Summer 2018&
