@@ -1,10 +1,10 @@
 <cashnet>result=0&
      respmessage=SUCCESS&
-     custcode=MS01400939&
+     custcode=MS01400932&
      lname=Lookup
      fname=customer7&
      email=&
-     maxamounttopay=6000&
+     maxamounttopay=2000&
      itemcnt=6&
      itemcode=TUIT&
      itemdesc=Summer 2018&
