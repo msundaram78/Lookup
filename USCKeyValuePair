@@ -1,10 +1,10 @@
 <cashnet>result=0&
      respmessage=SUCCESS&
-     custcode=MS01400944&
+     custcode=MS01400948&
      lname=Alternate
      fname=customer9&
      email=&
-     maxamounttopay=0.00&
+     maxamounttopay=100&
      itemcnt=6&
      itemcode=TUIT&
      itemdesc=Summer 2018&
