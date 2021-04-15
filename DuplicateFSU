@@ -1,6 +1,6 @@
 <cashnet>result=0&
 parent_id=000097057&
-studentcnt=2&
+studentcnt=1&
 student_id=100438707&
 student_fname=DASHER&
 student_lname=ZZTEST&
@@ -9,11 +9,4 @@ parent_first_name=JACOB&
 parent_last_name=MCVEY&
 parent_email=JMCVEY@psinvalid.fsu.edu&
 parent_permission=CN01,CN02,CN04,CN05&
-student_id2=100460219&
-student_fname2=JANE&
-student_lname2=ZZTEST&
-student_email2=ktownsend@fsu.edu&
-parent_first_name2=JACOB&
-parent_last_name2=MCVEYS&
-parent_email2=JMCVEY@psinvalid.fsu.edu&
-parent_permission2=CN01,CN02,CN04,CN05</cashnet>
+</cashnet>
