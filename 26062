@@ -1,1 +1,20 @@
-
+<cashnet>result=0&
+     respmessage=success&
+     custcode=REG2024&
+     lname=26062&
+     fname=card&
+     addr_type=HOME&
+     address1=2660 W Boise Ave&
+     address2=Apt #3&
+     city=Boise&
+     state=ID&
+     zip=83706&
+     country=USA&
+     areacode=&
+     phone=&
+     dob=&
+     email=bhaskar.mallichetty@transactcampus.com&
+     notecode=26062&
+     itemcode=WINTER 2017&
+     balance=5000&
+    </cashnet>
